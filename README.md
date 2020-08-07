@@ -1,5 +1,3 @@
-# AMPZ REBORN
-
 AMPZ REBORN 1.12
 ======
 This is the official repository and issue-tracker for AMPZ REBORN 1.12
