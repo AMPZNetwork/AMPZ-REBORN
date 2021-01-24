@@ -13,8 +13,9 @@ When reporting an issue put the version number before the issue title! Such as [
  
 You can also find us on Discord for help or just to chat:   
   
-|              |
+|You can also find us on Discord for help<br>or just to chat|
 |:------------:|
 |<a href="https://discord.gg/enrpMDd"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Join us on Discord!"  width="200" height="68"></a>|
 <br>
 <br>
+
