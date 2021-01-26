@@ -1,7 +1,40 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 		  	  
 # AMPZ REBORN | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>3.7</h1>
+
+**Updated:**
++ Buildcraft (7.99.24.6 → 7.99.24.7)
++ Controlling (3.0.9 → 3.0.10)
++ CraftPresence (1.6.5 → 1.7.5)
++ Ender IO (5.2.59 → 5.2.65)
++ Just Enough Items (4.15.0.296 → 4.16.1.301)
++ Open Modular Turrets (3.1.11-372 → 3.1.12-378)
++ RandomPatches (1.22.0.0 → 1.22.1.7)
++ UniDict (2.9.6 → 2.9.8)
++ WanionLib (2-2.4 → 2-2.5)
++ YUNG's Better Mineshafts (1.3 → 2.1.1)
+
+**Changed/Fixed**
++ Renamed Website to GitHub (fetches info from our GitHub page)
++ Updated What's New! button URL
++ Fixed illegal mod issue when connecting to a multiplayer servers
++ Fixed an issue that would happen when starting your own AMPZ server
+
+**Added:**
++ MPUtils
++ MPUtils Basic Tools
++ JustEnoughIDs
+
+**Removed:**
++ OptiFine (download from https://www.optifine.net/downloads)
++ Galacticraft (included in All The Forge and Colony: Lost in Deep Space)
+
+Report any bugs & issues over at
+https://github.com/AMPZNetwork/AMPZ-REBORN
+
+--------------------------------------------------------------------------------------------- 
 <h1>3.6</h1>
 
 **Updated:**
