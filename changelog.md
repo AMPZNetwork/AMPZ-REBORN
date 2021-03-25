@@ -2,6 +2,54 @@
 # AMPZ REBORN | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>3.8</h1>
+
+**Updated:**
++ Minecraft Forge (14.23.5.2854 → 14.23.5.2855)
++ CraftPresence (1.7.5 → 1.7.6)
++ EnderIO (5.2.65 → 5.2.66)
++ Extreme Reactors (0.4.5.67 → 0.4.5.68)
++ FoamFix (0.10.10 → 0.10.11)
++ GunpowderLib (1.0 → 1.1)
++ It's The Little Things (1.0.2 → 1.0.3)
++ Integration Foregoing (1.10 → 1.11)
++ RandomPatches (1.22.1.7 → 1.22.1.10)
++ UniDict (2.9.8 → 3.0.6)
++ Better Mineshafts (2.1.1 → 2.2.1)
++ ZeroCore 2 (0.1.2.8 → 0.1.2.9)
++ UniDict (3.0.6 → 3.0.7)
+
+**Changed/Fixed**
++ Added our Minecraft Partner affiliate link under a new button called "Rent a Server"
++ MainMenu and Pause Overhaul 
++ Moved JourneyMap to the Top Right
++ Moved Tips location to the bottom left of the screen.
++ Better changelog layout
++ Updated loading tips.
++ KAC files updated.
+
+**Added:**
++ FancyMenu
++ Vic's Modern Warfare Mod
++ OldJavaWarning
++ Tips
++ Smooth Scrolling Everywhere
++ JAOPCA Agriculture
++ JAOPCA
++ Quark
++ Client Tweaks
++ FallingTree
+
+**Removed:**
++ Custom Main Menu
++ Treecapitator
++ MP Basic
++ MP Utils
+
+Report any bugs & issues over at
+https://github.com/AMPZNetwork/AMPZ-REBORN
+
+---------------------------------------------------------------------------------------------
 <h1>3.7</h1>
 
 **Updated:**
