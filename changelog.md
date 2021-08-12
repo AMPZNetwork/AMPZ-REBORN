@@ -2,6 +2,52 @@
 # AMPZ REBORN | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>3.9</h1>
+
+**Updated:**
++ FancyMenu (2.2.0-1 → 2.2.1)
++ AgriCraft (1.12.0-a6 → 1.12.2-b2)
++ CraftPresence (1.7.6 → 1.8.2)
++ EnderIO (5.2.66 → 5.3.70)
++ FancyMenu (2.0.7-1 → 2.2.0-1)
++ JAOPCA (2.2.8.103 → 2.2.8.105)
++ JAOPCAAgriculture (1.2.1.16 → 1.2.1.17)
++ InfinityLib (1.12.0 → 1.12.1)
++ Konkrete (1.1.5 → 1.1.6)
++ UniDict (3.0.7 → 3.0.8)
++ Vic's Modern Warfare Mod (1.11.7.7 → 2.0-0.4.4.6)
+
+**Changed/Fixed**
++ Added a Recommend Texture Pack button located in Resource Packs menu.
++ Fixed Gas Grenades breaking death loot.
++ Updated Pack Logo, Designed by BisectHosting.
++ Updated Discord Logo.
++ Re-Designed Main Menu.
++ Minor UI Tweaks.
++ Replaced Faithful 32x texture pack with Compliance 32x.
+
+
+**Added:**
++ DrCyano's Lootable Bodies
++ Cherished Worlds
++ World Book
+
+**Removed:**
++ FoamFix
++ It's The Little Things
++ Corail Tombstone
++ Client Tweaks
++ Smooth Scrolling Everywhere
++ Resource Loader
++ RandomPatches
++ Crash To Main Menu
++ Vic's Modern Warfare
+
+ 
+Report any bugs & issues over at
+https://github.com/AMPZNetwork/AMPZ-REBORN
+
+---------------------------------------------------------------------------------------------
 <h1>3.8</h1>
 
 **Updated:**
