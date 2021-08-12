@@ -9,7 +9,6 @@
 + AgriCraft (1.12.0-a6 → 1.12.2-b2)
 + CraftPresence (1.7.6 → 1.8.2)
 + EnderIO (5.2.66 → 5.3.70)
-+ FancyMenu (2.0.7-1 → 2.2.0-1)
 + JAOPCA (2.2.8.103 → 2.2.8.105)
 + JAOPCAAgriculture (1.2.1.16 → 1.2.1.17)
 + InfinityLib (1.12.0 → 1.12.1)
@@ -38,10 +37,8 @@
 + Corail Tombstone
 + Client Tweaks
 + Smooth Scrolling Everywhere
-+ Resource Loader
 + RandomPatches
 + Crash To Main Menu
-+ Vic's Modern Warfare
 
  
 Report any bugs & issues over at
