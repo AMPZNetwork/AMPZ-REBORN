@@ -2,6 +2,27 @@
 # AMPZ REBORN | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>4.0</h1>
+
+**Updated:**
++ Minecraft (1.12.2 → 1.16.5)
++ Minecraft Forge (14.23.5.2855 → 36.2.9)
++ Updated compatible 1.12.2 mods to 1.16.5
+
+**Changed/Fixed**
+
+
+**Added:**
+ 
+
+**Removed:**
+ 
+
+ 
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/AMPZ-REBORN
+
+---------------------------------------------------------------------------------------------
 <h1>3.9</h1>
 
 **Updated:**
