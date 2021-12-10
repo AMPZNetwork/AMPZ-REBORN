@@ -2,6 +2,27 @@
 # AMPZ REBORN | Patch Notes
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>v4.0.1</h1>
+
+
+**Updated:**
++ Minecraft Forge (36.2.9 → 36.2.20)
+
+
+**Changed/Fixed**
++ Fixed The Active Log4j Exploit.
+
+**Added:**
++
+
+**Removed:**
++
+
+ 
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/AMPZ-REBORN
+
+---------------------------------------------------------------------------------------------
 <h1>4.0</h1>
 
 **Updated:**
@@ -62,7 +83,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Crash To Main Menu
 
  
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
 
 ---------------------------------------------------------------------------------------------
@@ -110,7 +131,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + MP Basic
 + MP Utils
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
 
 ---------------------------------------------------------------------------------------------
@@ -143,7 +164,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + OptiFine (download from https://www.optifine.net/downloads)
 + Galacticraft (included in All The Forge and Colony: Lost in Deep Space)
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
 
 --------------------------------------------------------------------------------------------- 
@@ -201,7 +222,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + MPUtils Basic Tools
 + Unloader
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
 
 ---------------------------------------------------------------------------------
@@ -250,7 +271,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Controllable
 +Crash to main menu
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
 
 ---------------------------------------------------------------------------------
@@ -297,7 +318,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Tiny Progressions
 + OptiFine (manually download at optifine.net)
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
 
 ---------------------------------------------------------------------------------
@@ -324,8 +345,9 @@ This build is compatible with V3.3 Server Files
 +
 
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
+
 ---------------------------------------------------------------------------------
 <h1>3.3</h1>
 
@@ -385,8 +407,9 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + VanillaFix
 + Vic's Modern Warfare Mod Ver. 2.0 beta
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
+
 -----------------------------------------------------------------
 <h1>3.2.2 - Patch Update</h1>
 
@@ -401,8 +424,9 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 
 **Removed:**
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
+
 -----------------------------------------------------------------
 <h1>3.2 - October 2019</h1>
 
@@ -428,7 +452,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Baubles
 + Lootbags
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
 
 -----------------------------------------------------------------
@@ -457,22 +481,23 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Controlling
 + Not Enough Items [JEI now works as a standed mod]
 
-Report any bugs & issues over at
+Report any bugs & issues over at<br>
 https://github.com/AMPZNetwork/AMPZ-REBORN
+
 -----------------------------------------------------------------
 3.0 - We're Just Getting Started
 
 §lNote for serverpack users 
 It's recommend that you do a world reset before updating to 3.0.
 
-*Main Menu overhall 
-*Added Buildcraft
-*Added Better Portals Mod
-*Added Mrcrayfish furniture mod [Suggested by @mooie134]
-*Added NoMoreRecipeConflict
-*Added theoneprobe mod [Willaharvestability replacement]
-*Added SmoothFonts
-*Added Controlling
++ Main Menu overhall 
++ Added Buildcraft
++ Added Better Portals Mod
++ Added Mrcrayfish furniture mod [Suggested by @mooie134]
++ Added NoMoreRecipeConflict
++ Added theoneprobe mod [Willaharvestability replacement]
++ Added SmoothFonts
++ Added Controlling
 
 Fixes/changes
 *Fixed a start up issue that would occurre with MacOS
@@ -576,11 +601,14 @@ https://discordapp.com/channels/495506209881849856/574215444483932170/5742162833
 
 ------------------------------------------------------------------
 2.3.1
-Changelog: http://labszero-official.epizy.com/resources/ampz-reborn.19 
+Changelog:<br>
+http://labszero-official.epizy.com/resources/ampz-reborn.19
+
 ------------------------------------------------------------------
 2.3
 
-Changelog: http://labszero-official.epizy.com/resources/ampz-reborn-ver-2-3.17
+Changelog:<br>
+http://labszero-official.epizy.com/resources/ampz-reborn-ver-2-3.17
 ------------------------------------------------------------------
 2.2
 *Added WorldEdit Forge
