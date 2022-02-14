@@ -1,7 +1,84 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 		  	  
 # AMPZ REBORN | Patch Notes
-<h2>Be sure to always backup your world(s) before updating!</h2>
+## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>v4.1</h1>
+
+<h4>v5.0 for Minecraft 1.18.1 is currently being developed.</h4>
+
+**Updated:**
++ Minecraft Forge (36.2.20 → 36.2.28)
++ Applied Energistics 2 (8.4.4 → 8.4.7)
++ Architectury API (1.24.35 → 1.29.51)
++ Bookshelf (10.3.29 → 10.4.31)
++ CB Multipart (3.0.3.122 → 3.0.4.123)
++ Chisels & Bits (1.0.43 → 1.0.63)
++ CodeChicken Lib (4.0.4.435 → 4.0.6.443)
++ CoFH Core (1.3.1 → 1.4.2.9)
++ Collective (2.65 → 4.0)
++ Configured (1.3.1 → 1.5.1)
++ Controlling (7.0.0.27 → 7.0.0.28)
++ Electrodynamics (0.5.0-1 → 0.5.0-2)
++ Create (0.3.2f → 0.3.2g)
++ Drippy Loading Screen (1.3.1 → 1.5.1)
++ Extreme Reactors (2.0.31 → 2.0.38)
++ FancyMenu (2.3.6 → 2.6.2)
++ Farmer's Delight (0.5.1 → 0.5.4)
++ Flywheel (0.2.4 → 0.2.5)
++ Immersive Engineering (5.0.5-140 → 5.0.7-143)
++ Iron Chests (11.2.13 → 11.2.21)
++ Jade (2.8.0 → 2.8.1)
++ Just Enough Items (7.7.1.136 → 7.7.1.145)
++ Just Enough Resources (0.12.1.128 → 0.12.1.133)
++ Konkrete (1.3.0 → 1.3.3)
++ Macaw's Bridges (2.0.0 → 2.0.1)
++ Macaw's Doors (1.0.3 → 1.0.5)
++ Macaw's Fences and Walls (1.0.1 → 1.0.2)
++ Macaw's Roofs (2.0.1 → 2.1.0)
++ Macaw's Windows (2.0.0 → 2.0.2)
++ Mantle (1.6.127 → 1.6.157)
++ Mekanism (10.0.24.453 → 10.1.1.456)
++ Mekanism Generators (10.0.24.453 → 10.1.1.456)
++ Mekanism Tools (10.0.24.453 → 10.1.1.456)
++ Modular Powersuits (2.1.17 → 2.1.20)
++ Numina (2.1.14 → 2.1.18)
++ OAuth (1.07 → 1.1.12)
++ Placebo (4.6.0 → 4.6.1)
++ Polymorph (0.32 → 0.39)
++ Project Red - Core (4.10.0 → 4.11.0)
++ Project Red - Exploration (4.10.0 → 4.11.0)
++ Project Red - Illumination (4.10.0 → 4.11.0)
++ Project Red - Integration (4.10.0 → 4.11.0)
++ Quark (2.4-319 → 2.4-322)
++ Simple Discord RPC (2.5 → 2.7.1)
++ Storage Drawers (8.3.0 → 8.5.1)
++ Thermal Expansion (1.3.0 → 1.4.2.4)
++ Thermal Foundation (1.3.2 → 1.4.3.10)
++ Tinkers Construct (3.2.1.296 → 3.3.3.332)
++ ZeroCore 2 (2.1.6 → 2.1.9)
+
+**Changed/Fixed**
++ Fixed an issue with the latest Java 8 build.
++ Fixed "More Packs button URL.
++ Fixed stone bridge not letting you walk up them from the east and south.
++ Changed Minecraft default font.
++ Minor changes to the loading screen.
+
+**Added:**
++ Blastcraft
++ Macaw's Bridges - Biome O' Plenty
++ Macaw's Roofs - Biomes O' Plenty
++ Load My Resources
+
+**Removed:**
++ Not Enough Crashes
++ Caves & Cliffs Backport
++ FTB Library
++ JAOPCA
+ 
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---------------------------------------------------------------------------------------------
 <h1>v4.0.1</h1>
 
 
@@ -19,8 +96,7 @@
 +
 
  
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------------------
 <h1>4.0</h1>
@@ -40,8 +116,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
  
 
  
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------------------
 <h1>3.9</h1>
@@ -83,8 +158,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Crash To Main Menu
 
  
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------------------
 <h1>3.8</h1>
@@ -131,8 +205,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + MP Basic
 + MP Utils
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------------------
 <h1>3.7</h1>
@@ -164,8 +237,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + OptiFine (download from https://www.optifine.net/downloads)
 + Galacticraft (included in All The Forge and Colony: Lost in Deep Space)
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 --------------------------------------------------------------------------------------------- 
 <h1>3.6</h1>
@@ -222,8 +294,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + MPUtils Basic Tools
 + Unloader
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------
 <h1>3.5</h1>
@@ -271,8 +342,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Controllable
 +Crash to main menu
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------
 <h1>3.4</h1>
@@ -318,8 +388,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Tiny Progressions
 + OptiFine (manually download at optifine.net)
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------
 <h1>3.3.1 - Hotfix</h1>
@@ -345,8 +414,7 @@ This build is compatible with V3.3 Server Files
 +
 
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---------------------------------------------------------------------------------
 <h1>3.3</h1>
@@ -407,8 +475,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + VanillaFix
 + Vic's Modern Warfare Mod Ver. 2.0 beta
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 -----------------------------------------------------------------
 <h1>3.2.2 - Patch Update</h1>
@@ -424,8 +491,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 
 **Removed:**
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 -----------------------------------------------------------------
 <h1>3.2 - October 2019</h1>
@@ -452,8 +518,7 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Baubles
 + Lootbags
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 -----------------------------------------------------------------
 <h1>3.1 - Squashing bugs</h1>
@@ -481,86 +546,95 @@ https://github.com/AMPZNetwork/AMPZ-REBORN
 + Controlling
 + Not Enough Items [JEI now works as a standed mod]
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/AMPZ-REBORN
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 -----------------------------------------------------------------
-3.0 - We're Just Getting Started
+<h1>3.0 - We're Just Getting Started</h1>
 
-§lNote for serverpack users 
-It's recommend that you do a world reset before updating to 3.0.
 
-+ Main Menu overhall 
-+ Added Buildcraft
-+ Added Better Portals Mod
-+ Added Mrcrayfish furniture mod [Suggested by @mooie134]
-+ Added NoMoreRecipeConflict
-+ Added theoneprobe mod [Willaharvestability replacement]
-+ Added SmoothFonts
-+ Added Controlling
+**Updated:**
++ Galacticraft to Ver. 4.0.2.235
++ JourneyMap to Ver. 5.5.5
 
-Fixes/changes
-*Fixed a start up issue that would occurre with MacOS
-*openmodularturrets default recipes now use Mekanism instead of Auto picking
-*Tweaked Lootbags drop chance
 
-Removed Mods:
-*Secretrooms Mod
-*wailaharvestability
-*Fast Leaft Decay
-*Chiselsandbits
+**Changed/Fixed**
++ Fixed a start up issue that would occurre with MacOS
++ openmodularturrets default recipes now use Mekanism instead of Auto picking
++ Tweaked Lootbags drop chance
++ Main Menu overhall
 
-Mod Updates:
-*Galacticraft to Ver. 4.0.2.235
-*JourneyMap to Ver. 5.5.5
+
+**Added:**
++ Buildcraft
++ Better Portals Mod
++ Mrcrayfish furniture mod [Suggested by @mooie134]
++ NoMoreRecipeConflict
++ theoneprobe mod [Willaharvestability replacement]
++ SmoothFonts
++ Controlling
+
+
+**Removed:**
++ Secretrooms Mod
++ wailaharvestability
++ Fast Leaft Decay
++ Chiselsandbits
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 -----------------------------------------------------------------
-2.5 - Summer Update 2019
+<h1>2.5 - Summer Update 2019</h1>
 
-*AMPZ REBORN now requires a minimum of 3GB of ram in order to load
-*Added LootBags
-*Added Tinkers Tools Leveling
-*Added Pam's HarvestCraft
-*Added Wireless Redstone
-*Small tweaks to configs
-*Removed Classic Combat
+**Updated:**
++ Minecraft Forge to 14.23.5.2837
++ ICBM to Ver. 3.3.0b63
++ BiomesOPlenty to Ver. 7.0.1.2439
++ chiselsandbits to Ver. 14.33 
++ CoFHWorld to Ver. 1.3.1.7
++ CoFHCore to Ver. 4.6.3.27
++ EnderCore to Ver. 0.5.57
++ EnderIO to Ver. 5.0.44
++ Extreme Reactors to Ver. 0.4.5.67
++ Shadowfacts Forgelin to Ver. 1.8.3
++ Forge MultiPart CBE to Ver. 6.1.81
++ Galacticraft to Ver. 4.0.2.211
++ Hwyla to Ver. 1.8.19-B33
++ IChunUtil to Ver. 7.2.1
++ Industrial Foregoing to Ver. 236
++ Iron Chests to Ver. 7.0.69.845 
++ JEI to Ver. 4.15.0.283
++ Mantle to Ver. 1.3.3.55
++ Mekanism to Ver. 9.7.8.379
++ Mekanism Generators to Ver. 9.7.8.379
++ ModularPowersuits to Ver. 1.0.44
++ MysticalAgradditions to Ver. 1.3.2
++ MysticalAgriculture to Ver. 1.7.5
++ Omlib to Ver. 3.1.3-246
++ OpenBlocks to Ver. 1.8.1
++ OpenModsLib to Ver. 2-0.12.2
++ OpenModularTurrets to Ver. 3.1.3-355
++ TConstruct to Ver. 2.12.0.157
++ ThermalDynamics to Ver. 2.5.5.21
++ ThermalExpansion to Ver. 5.5.4.43
++ ThermalFoundation to Ver. 2.6.3.27
++ Tinyprogressions to Ver. 3.3.34
++ TreeCapitator to Ver. 1.43.0
 
-Updated Server Files are now available.
+**Changed/Fixed**
 
-Mod Updates:
-*Updated Forge to 14.23.5.2837
-*Updated ICBM to Ver. 3.3.0b63
-*Updated BiomesOPlenty to Ver. 7.0.1.2439
-*Updated chiselsandbits to Ver. 14.33 
-*Updated CoFHWorld to Ver. 1.3.1.7
-*Updated CoFHCore to Ver. 4.6.3.27
-*Updated EnderCore to Ver. 0.5.57
-*Updated EnderIO to Ver. 5.0.44
-*Updated Extreme Reactors to Ver. 0.4.5.67
-*Updated Shadowfacts Forgelin to Ver. 1.8.3
-*Updated Forge MultiPart CBE to Ver. 6.1.81
-*Updated Galacticraft to Ver. 4.0.2.211
-*Updated Hwyla to Ver. 1.8.19-B33
-*Updated IChunUtil to Ver. 7.2.1
-*Updated Industrial Foregoing to Ver. 236
-*Updated Iron Chests to Ver. 7.0.69.845 
-*Updated JEI to Ver. 4.15.0.283
-*Updated Mantle to Ver. 1.3.3.55
-*Updated Mekanism to Ver. 9.7.8.379
-*Updated Mekanism Generators to Ver. 9.7.8.379
-*Updated ModularPowersuits to Ver. 1.0.44
-*Updated MysticalAgradditions to Ver. 1.3.2
-*Updated MysticalAgriculture to Ver. 1.7.5
-*Updated Omlib to Ver. 3.1.3-246
-*Updated OpenBlocks to Ver. 1.8.1
-*Updated OpenModsLib to Ver. 2-0.12.2
-*Updated OpenModularTurrets to Ver. 3.1.3-355
-*Updated TConstruct to Ver. 2.12.0.157
-*Updated ThermalDynamics to Ver. 2.5.5.21
-*Updated ThermalExpansion to Ver. 5.5.4.43
-*Updated ThermalFoundation to Ver. 2.6.3.27
-*Updated Tinyprogressions to Ver. 3.3.34
-*Updated TreeCapitator to Ver. 1.43.0
+
+**Added:**
++ LootBags
++ Tinkers Tools Leveling
++ Pam's HarvestCraft
++ Wireless Redstone
++ Small tweaks to configs
+
+**Removed:**
++ Classic Combat
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
 ----------------------------------------------------------------
 2.4.1
 
@@ -701,4 +775,3 @@ BETA 1.2
 BETA 1.0.1
 *BETA Release
 ------------------------------------------------------------------
-You must be online in order to see the update history logs
