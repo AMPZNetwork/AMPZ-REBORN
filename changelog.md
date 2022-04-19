@@ -2,6 +2,68 @@
 # AMPZ REBORN | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>v4.2</h1>
+
+<h4>OPTIFINE: Remove Magnesium & Dynamic Lights Reforged Mods if you want to use Optifine!.</h4>
+
+**Updated:**
++ Minecraft Forge (36.2.28 → 36.2.34)
++ Bookshelf (10.4.31 → 10.4.32)
++ Clumps (6.0.0.27 → 6.0.0.28)
++ CodeChicken Lib 1.8.+ (4.0.6.443 → 4.0.7.445)
++ Collective (4.0 → 4.25)
++ CoFH Core (1.4.2.9 → 1.4.3.10)
++ Ender Storage (2.8.0.168 → 2.8.0.170)
++ Extreme Reactors (2.0.38 → 2.0.41)
++ FancyMenu (2.6.2 → 2.6.5)
++ Farmer's Delight (0.5.4 → 0.5.5)
++ JourneyMap (5.7.3 → 5.8.1)
++ Just Enough Items (7.7.1.145 → 7.7.1.152)
++ Macaw's Bridges (2.0.1 → 2.0.2)
++ Macaw's Bridges - Biome O' Plenty (1.2 → 1.3)
++ Macaw's Doors (1.0.5 → 1.0.6)
++ Macaw's Fences and Walls (1.0.2 → 1.0.4)
++ Macaw's Roofs (2.1.0 → 2.1.1)
++ Macaw's Roofs - Biomes O' Plenty (1.1 → 1.2)
++ Macaw's Windows (2.0.2 → 2.0.3)
++ Mekanism (10.1.1.456 → 10.1.2.457)
++ Mekanism Generators (10.1.1.456 → 10.1.2.457)
++ Mekanism Tools (10.1.1.456 → 10.1.2.457)
++ Modular Powersuits (2.1.20 → 2.2.24)
++ Numina (2.1.18 → 2.2.24)
++ OAuth (1.1.12 → 1.1.13)
++ Placebo (4.6.1 → 4.7.0)
++ Polymorph (0.39 → 0.40)
++ Simple Discord RPC (2.7.1 → 3.0.0)
++ Tinkers Construct (3.3.3.332 → 3.3.4.335)
++ Thermal Foundation (1.4.3.10 → 1.4.5.11)
++ Tips (4.0.7 → 4.0.16)
++ Toast Control (4.3.1 → 4.4.0)
++ Tree Harvester (4.0 → 5.1)
++ XL Packets (1.1 → 1.2)
+
+**Changed/Fixed**
++ Improved the custom main menu music behaviour.
++ Fixed pause menu hoverlabels.
++ Removed "Recommended Pack" (get the new link on our Discord Server).
++ Small changes to the Simple RPC file.
++ General Performance Improvements
+
+**Added:**
++ BisectHosting Server Integration Menu
++ Magnesium
++ Magnesium/Rubidium Extras
++ Magnesium/Rubidium Dynamic Lights
++ Dynamic Electricity
++ Cloth Config API
+
+
+**Removed:**
++ 
+ 
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---------------------------------------------------------------------------------------------
 <h1>v4.1</h1>
 
 <h4>v5.0 for Minecraft 1.18.1 is currently being developed.</h4>
