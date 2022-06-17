@@ -2,12 +2,13 @@
 | <img src="https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_Header.png" alt="Get your server today!"  width="1920" height="200"></a>|
 </p>
 ======
-This is the official repository and issue-tracker for AMPZ REBORN 1.12 and 1.16.5
+
+This is the official repository and issue-tracker for AMPZ REBORN 1.16.5 & 1.18.2
     
 #### Modpack Links: 
-+ https://www.curseforge.com/minecraft/modpacks/ampz-reborn 
-+ https://www.technicpack.net/modpack/volt-reborn-1102.1219164  
-+ https://atlauncher.com/pack/AMPZREBORN  
++ [CurseForge](https://www.curseforge.com/minecraft/modpacks/ampz-reborn)
++ [Technic Pack](https://www.technicpack.net/modpack/volt-reborn-1102.1219164)  
++ [ATLauncher](https://atlauncher.com/pack/AMPZREBORN)
   
 Need Help?
 ======
@@ -15,9 +16,9 @@ When reporting an issue put the version number before the issue title! Such as [
  
 You can also find us on Discord for help or just to chat:   
   
-|You can also find us on Discord for help<br>or just to chat as well as our Guilded Server|
+|You can also find us on Discord for help<br>or just to chat.|
 |:------------:|
-|<a href="https://discord.gg/enrpMDd"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Join us on Discord!"  width="200" height="68"></a>|
+|<a href="https://discord.gg/enrpMDd"><img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" alt="Join us on Discord!"  width="250" height="70"></a>|
 <br>
 
 Looking for a Reliable Server Host?
@@ -25,5 +26,5 @@ Looking for a Reliable Server Host?
 AMPZ Network has partnered up with BisectHosting to give our community a discount on their first order of any of their gaming services, by using promo code **"AMPZ"** you will save 25% off your first order. Click the banner below to get yours. 
 
 <p align="center">
-| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png" alt="Get your server today!"  width="1920" height="170"></a>|
+| <a href="https://bisecthosting.com/AMPZ"><img src="https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png" alt="Get your server today!"  width="1920" height="200"></a>|
 </p>
