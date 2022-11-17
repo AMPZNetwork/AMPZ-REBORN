@@ -1,7 +1,79 @@
+[![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png)](https://bisecthosting.com/AMPZ)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 		  	  
 # AMPZ REBORN | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>v4.3</h1>
+
+**Updated:**
++ Biomes O' Plenty (13.1.0.477 → 13.1.0.488)
++ Catalogue (1.5.0 → 1.6.1)
++ Cloth Config API (4.14.54 → 4.16.91)
++ CoFH Core (1.4.3.10 → 1.5.2.22)
++ Collective (4.25 → 5.16)
++ Configured (1.5.1 → 1.5.3)
++ Drippy Loading Screen (1.5.1 → 1.6.5-1)
++ Extreme Reactors (2.0.41 → 2.0.55)
++ FancyMenu (2.6.5 → 2.12.9)
++ Farmer's Delight (0.5.5 → 0.6.0)
++ Immersive Engineering (5.0.7-143 → 5.1.0-148)
++ Jade (2.8.1 → 2.8.3) 
++ JourneyMap (5.8.1 → 5.8.5p6)
++ Just Enough Items (7.7.1.152 → 7.7.1.153)
++ Macaw's Bridges (2.0.2 → 2.0.5)
++ Macaw's Doors (1.0.6 → 1.0.7)
++ Macaw's Fences and Walls (1.0.4 → 1.0.6)
++ Macaw's Roofs (2.1.1 → 2.2.1)
++ Modular Powersuits (2.2.24 → 2.2.31)
++ Minecraft Forge (36.2.34 → 36.2.39)
++ Numina (2.2.24 → 2.2.31)
++ Konkrete (1.3.3 → 1.5.3)
++ OAuth (1.1.13 → 1.1.14)
++ Patchouli (53.2 → 53.3)
++ Polymorph (0.40 → 0.41)
++ Project Red - Core (4.11.0 → 4.12.0)
++ Project Red - Exploration (4.11.0 → 4.12.0)
++ Project Red - Illumination (4.11.0 → 4.12.0)
++ Project Red - Integration (4.11.0 → 4.12.0)
++ Simple Discord RPC (3.0.0 → 3.2.0)
++ Storage Drawers (8.5.1 → 8.5.2)
++ Thermal Expansion (1.4.2.4 → 1.5.2.16)
++ Thermal Foundation (1.4.5.11 → 1.5.2.30)
++ Tips (4.0.16 → 4.0.18)
++ Tree Harvester (5.1 → 5.9)
++ ZeroCore 2 (2.1.9 → 2.1.26)
+
+**Changed/Fixed**
++ Fixed a crash on game start when OptiFine is installed.
++ Fixed error messages not being displayed on the correct client in lan games.
++ Fixed Server Side config not properly sending to the client.
++ Fixed "Failed to login: null" error.
++ Fixed a crashs when typing R/U into jei serach.
++ Fixed item dupe bug with storage drawers.
++ Fixed journeymap reseting eveytime the pack is loaded.
++ Changed jei maxcolumns from 9 to 20.
++ Re-designed both pause menu and splash screen.
++ Performance improvements.
+
+**Added:**
++ Mouse Tweaks
++ Blur
++ OpenLoader
++ Fancy: GUI Overhaul resource pack.
+
+**Removed:**
++ Load My Resources
++ Magnesium/Rubidium Extras
++ Magnesium
++ Magnesium/Rubidium Dynamic Lights
++ YUNG's Better Mineshafts (Forge)
++ Macaw's Bridges - Biome O' Plenty
++ Macaw's Roofs - Biomes O' Plenty
+ 
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---------------------------------------------------------------------------------------------
 <h1>v4.2</h1>
 
 <h4>OPTIFINE: Remove Magnesium & Dynamic Lights Reforged Mods if you want to use Optifine!.</h4>
