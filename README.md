@@ -1,4 +1,4 @@
-[![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_Header.png)
+![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_Header.png)
 
 ======
 
