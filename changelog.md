@@ -4,6 +4,44 @@
 # AMPZ REBORN | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>v4.4</h1>
+
+**Updated:**
++ Bookshelf (10.4.32 → 10.4.33)
++ Collective (5.16 → 5.49)
++ Controlling (7.0.0.28 → 7.0.0.29) 
++ Drippy Loading Screen (1.6.5-1 → 2.1.1)
++ Extreme Reactors (2.0.55 → 2.0.60)
++ FancyMenu (2.12.9 → 2.13.3)
++ Konkrete (1.5.3 → 1.6.0)
++ Macaw's Bridges (2.0.5 → 2.0.6)
++ Macaw's Doors (1.0.7 → 1.0.8)
++ Macaw's Fences and Walls (1.0.6 → 1.0.7)
++ Macaw's Roofs (2.2.1 → 2.2.3)
++ Macaw's Windows (2.0.3 → 2.1.1)
++ Modular Powersuits (2.2.31 → 2.2.32)
++ Numina (2.2.31 → 2.2.32)
++ ZeroCore 2 (2.1.26 → 2.1.30)
+
+**Changed/Fixed**
++ Fixed server files crashing on Mac & Linux.
++ Fixed some recipes not showing up in JEI.
++ Fixed collision issue with barn doors.
++ Updated CurseForge icon to their new rebranded one.
++ Updated the "Suggestions" button URL.
++ Updated "Read Me" server file so its more easier to understand.
++ Improved performance.
+
+**Added:**
++ NetherPortalFix
+
+**Removed:**
++ YUNG's Better Caves
++ Blur
+ 
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---------------------------------------------------------------------------------------------
 <h1>v4.3</h1>
 
 **Updated:**
