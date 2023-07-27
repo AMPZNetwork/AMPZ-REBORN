@@ -1,9 +1,44 @@
 [![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png)](https://bisecthosting.com/AMPZ)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 		  	  
+----------------------------------------------------------------------------------------------- 		  	  
 # AMPZ REBORN | Patch Notes
 ## Be sure to always backup your world(s) before updating!
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+<h1>v5.0 - MC 1.18.2 UPDATE!</h1>
+
+<h4>Old worlds are unlikely to be be compatible with this version of AMPZ REBORN,<br>but we have not tested this ourselves.<br>If you encounter any issues with your old worlds then we recommend you make a new one for this version.</h4>
+
+**Updated:**
++ Minecraft (1.16.5 → 1.18.2)
++ Minecraft Forge (36.2.39 → 40.2.10)
++ Bunch of mods.
+
+Changed/Fixed:
++ Initial 1.18.2 Release
+
+**Added:**
++ Inventory Sorter
++ Balm
++ Yeetus Experimentus
++ Chisels & Bits
+
+**Removed:**
++ Tinkers' Mechworks
++ Scorge
++ Project Red
++ Save My Stronghold
++ Orcinus's Caves
++ OldJavaWarning
++ Numina
++ Modular Powersuits
++ Inventory Tweaks Renewed
++ Chisel
++ Chocolate Fix
++ Shutup Experimental Settings
+ 
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+-----------------------------------------------------------------------------------------------
 <h1>v4.4</h1>
 
 **Updated:**
