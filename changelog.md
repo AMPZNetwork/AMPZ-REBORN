@@ -1,44 +1,85 @@
-[![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png)](https://bisecthosting.com/AMPZ)
-
------------------------------------------------------------------------------------------------ 		  	  
-# AMPZ REBORN | Patch Notes
-## Be sure to always backup your world(s) before updating!
------------------------------------------------------------------------------------------------
-<h1>v5.0 - MC 1.18.2 UPDATE!</h1>
-
-<h4>Old worlds are unlikely to be be compatible with this version of AMPZ REBORN,<br>but we have not tested this ourselves.<br>If you encounter any issues with your old worlds then we recommend you make a new one for this version.</h4>
-
-**Updated:**
-+ Minecraft (1.16.5 → 1.18.2)
-+ Minecraft Forge (36.2.39 → 40.2.10)
-+ Bunch of mods.
-
-Changed/Fixed:
-+ Initial 1.18.2 Release
-
-**Added:**
-+ Inventory Sorter
-+ Balm
-+ Yeetus Experimentus
-+ Chisels & Bits
-
-**Removed:**
-+ Tinkers' Mechworks
-+ Scorge
-+ Project Red
-+ Save My Stronghold
-+ Orcinus's Caves
-+ OldJavaWarning
-+ Numina
-+ Modular Powersuits
-+ Inventory Tweaks Renewed
-+ Chisel
-+ Chocolate Fix
-+ Shutup Experimental Settings
+[![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png)](https://bisecthosting.com/AMPZ?r=cf_AMPZ)
  
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+# AMPZ REBORN | Patch Notes
+### Be sure to review these changes carefully before updating your world(s).
 
------------------------------------------------------------------------------------------------
+---
+
+## Version: 5.0.1:
+
+### Updated:
+- Applied Energistics 2 (11.7.3 → 11.7.6)
+- BisectHosting Server Integration Menu (2.4.0 → 2.4.1)
+- COFH Core (9.2.1.39 → 9.2.3.47)
+- Collective (6.65 → 7.7)
+- Extreme Reactors (2.0.64 → 2.0.71)
+- Farmer's Delight (1.2.2 → 1.2.3)
+- Jade (5.3.0 → 5.3.1)
+- Minecraft Forge (40.2.10 → 40.2.14)
+- Macaw's Windows (2.1.1 → 2.2.0)
+- Simple Discord RPC (3.2.2 → 2.3.4)
+- Thermal Expansion (9.2.0.20 → 9.2.2.24)
+- Thermal Foundation (9.2.0.46 → 9.2.2.58)
+- Titanium (3.5.9-43 → 3.5.11-45)
+- Tree Harvester (8.2 → 8.3)
+- ZeroCore 2 (2.1.35 → 2.1.39)
+
+### Changed/Fixed:
+- Fixed a minor issue with JEI recipes.
+- Fixed potential performance issues involving the stack size override for BowlFoodItems.
+- Fix mixin crash on startup.
+- The pack will now currectly detect the right version of AMPZ REBORN when renting a server threw our partner.
+- Enabled JourneyMap waystone teleport by default.
+- Updated Store, Suggestions URLs.
+- Updated the splashscreen layout.
+
+### Added:
+- Embeddium
+- Embeddium++
+- RyoamicLights
+- ObsidianUI
+- Oculus
+- FramedBlocks
+ 
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---
+
+## Version: 5.0: - MC 1.18.2 UPDATE!
+
+#### Old worlds are unlikely to be be compatible with this version of AMPZ REBORN,<br>but we have not tested this ourselves.<br>If you encounter any issues with your old worlds then we recommend you make a new one for this version.
+
+### Updated:
+- Minecraft (1.16.5 → 1.18.2)
+- Minecraft Forge (36.2.39 → 40.2.10)
+- Bunch of mods.
+
+### Changed/Fixed:
+- Initial 1.18.2 Release
+
+### Added:
+- Inventory Sorter
+- Balm
+- Yeetus Experimentus
+- Chisels & Bits
+
+### Removed:
+- Tinkers' Mechworks
+- Scorge
+- Project Red
+- Save My Stronghold
+- Orcinus's Caves
+- OldJavaWarning
+- Numina
+- Modular Powersuits
+- Inventory Tweaks Renewed
+- Chisel
+- Chocolate Fix
+- Shutup Experimental Settings
+ 
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---
 <h1>v4.4</h1>
 
 **Updated:**
