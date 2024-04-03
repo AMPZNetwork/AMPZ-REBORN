@@ -1,11 +1,77 @@
-[![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png)](https://bisecthosting.com/AMPZ?r=cf_AMPZ)
+[![](https://www.bisecthosting.com/images/CF/AMPZ_Reborn/BH_AR_PromoCard.png)](https://bisecthosting.com/AMPZ?r=cf_AMPZREBORN)
  
 # AMPZ REBORN | Patch Notes
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
 
-## Version: 5.0.1:
+## Version: 5.0.2
+
+### Updated:
+- Architectury API (4.11.93 → 4.12.94)
+- Applied Energistics 2 (11.7.3 → 11.7.6)
+- BisectHosting Server Integration Menu (2.4.0 → 2.4.1)
+- Ballistix (0.5.3-3 → 0.5.4-0)
+- Blastcraft mod (0.2.7-2 → 0.2.8-0)
+- COFH Core (9.2.1.39 → 9.2.3.47)
+- Collective (6.65 → 7.7) 
+- CB Multipart (3.1.0.137 → 3.1.1.138)
+- Cloth Config API (6.5.102 → 6.5.116)
+- Drippy Loading Screen (2.2.2 → 3.0.1)
+- Dynamic Electricity (0.4.0-1 → 0.5.0-0)
+- Electrodynamics (0.6.4-0 → 0.6.5-0)
+- Extreme Reactors (2.0.64 → 2.0.71)
+- Embeddium (0.2.12 → 0.3.12)
+- Embeddium++ (v1.0.0 → v1.2.5)
+- FancyMenu (2.14.9 → 3.1.2)
+- Farmer's Delight (1.2.2 → 1.2.3)
+- Jade (5.3.0 → 5.3.2)
+- JourneyMap (5.9.7 → 5.9.9)
+- Minecraft Forge (40.2.10 → 40.2.18)
+- Macaw's Fences and Walls (1.0.7 → 1.1.1)
+- Macaw's Roofs (2.2.4 → 2.3.0)
+- Macaw's Windows (2.2.0 → 2.2.1)
+- Mantle (1.9.45 → 1.9.50)
+- Nuclear Science (0.4.8-11 → 0.4.9-0)
+- Konkrete (1.6.1 → 1.8.0)
+- Macaw's Windows (2.1.1 → 2.2.0)
+- Simple Discord RPC (3.2.2 → 2.3.4)
+- Thermal Expansion (9.2.0.20 → 9.2.2.24)
+- Thermal Foundation (9.2.0.46 → 9.2.2.58)
+- Titanium (3.5.9-43 → 3.5.11-47)
+- Tree Harvester (8.2 → 8.3)
+- Waystones (10.2.1 → 10.2.2)
+- ZeroCore 2 (2.1.35 → 2.1.39)
+- Polymorph (0.49 → 0.50)
+
+### Changed/Fixed:
+- Resolved a minor issue concerning JEI recipe displays.
+- Addressed potential performance bottlenecks related to stack size overrides for BowlFoodItems.
+- Rectified rendering glitches with Analog Levers, ensuring proper display of their redstone indicators.
+- Ensured proper spawning of ores by electrodynamics.
+- Resolved a startup crash experienced by certain users.
+- Corrected a mixin crash occurring on startup.
+- Rectified an issue with breaking the rain gutter, where it previously took a considerable amount of time and yielded no drops.
+- Improved pack detection for AMPZ REBORN when renting a server through our partner.
+- JourneyMap waystone teleportation is now enabled by default.
+- Updated Store, Suggestions, and Discord URLs for improved accessibility.
+- Revamped the splashscreen layout for a refreshed look.
+- Fixed discrepancies in UI assets display on Linux systems.
+
+### Added:
+- Embeddium
+- Embeddium++
+- RyoamicLights
+- ObsidianUI
+- Oculus
+- FramedBlocks
+- Blur
+ 
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---
+
+## Version: 5.0.1
 
 ### Updated:
 - Applied Energistics 2 (11.7.3 → 11.7.6)
@@ -47,7 +113,7 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 
 ## Version: 5.0: - MC 1.18.2 UPDATE!
 
-#### Old worlds are unlikely to be be compatible with this version of AMPZ REBORN,<br>but we have not tested this ourselves.<br>If you encounter any issues with your old worlds then we recommend you make a new one for this version.
+#### Old worlds are unlikely to be be compatible with this version of AMPZ REBORN, but we have not tested this ourselves.<br>If you encounter any issues with your old worlds then we recommend you make a new one for this version.
 
 ### Updated:
 - Minecraft (1.16.5 → 1.18.2)
@@ -80,26 +146,27 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
 ---
-<h1>v4.4</h1>
 
-**Updated:**
-+ Bookshelf (10.4.32 → 10.4.33)
-+ Collective (5.16 → 5.49)
-+ Controlling (7.0.0.28 → 7.0.0.29) 
-+ Drippy Loading Screen (1.6.5-1 → 2.1.1)
-+ Extreme Reactors (2.0.55 → 2.0.60)
-+ FancyMenu (2.12.9 → 2.13.3)
-+ Konkrete (1.5.3 → 1.6.0)
-+ Macaw's Bridges (2.0.5 → 2.0.6)
-+ Macaw's Doors (1.0.7 → 1.0.8)
-+ Macaw's Fences and Walls (1.0.6 → 1.0.7)
-+ Macaw's Roofs (2.2.1 → 2.2.3)
-+ Macaw's Windows (2.0.3 → 2.1.1)
-+ Modular Powersuits (2.2.31 → 2.2.32)
-+ Numina (2.2.31 → 2.2.32)
-+ ZeroCore 2 (2.1.26 → 2.1.30)
+## Version: 4.4
 
-**Changed/Fixed**
+### Updated:
+- Bookshelf (10.4.32 → 10.4.33)
+- Collective (5.16 → 5.49)
+- Controlling (7.0.0.28 → 7.0.0.29) 
+- Drippy Loading Screen (1.6.5-1 → 2.1.1)
+- Extreme Reactors (2.0.55 → 2.0.60)
+- FancyMenu (2.12.9 → 2.13.3)
+- Konkrete (1.5.3 → 1.6.0)
+- Macaw's Bridges (2.0.5 → 2.0.6)
+- Macaw's Doors (1.0.7 → 1.0.8)
+- Macaw's Fences and Walls (1.0.6 → 1.0.7)
+- Macaw's Roofs (2.2.1 → 2.2.3)
+- Macaw's Windows (2.0.3 → 2.1.1)
+- Modular Powersuits (2.2.31 → 2.2.32)
+- Numina (2.2.31 → 2.2.32)
+- ZeroCore 2 (2.1.26 → 2.1.30)
+
+### Changed/Fixed:
 + Fixed server files crashing on Mac & Linux.
 + Fixed some recipes not showing up in JEI.
 + Fixed collision issue with barn doors.
@@ -108,16 +175,18 @@ For bug reports and issues, please visit our [Issue Tracker](https://github.com/
 + Updated "Read Me" server file so its more easier to understand.
 + Improved performance.
 
-**Added:**
+### Added:
 + NetherPortalFix
 
-**Removed:**
-+ YUNG's Better Caves
-+ Blur
+### Removed:
+- YUNG's Better Caves
+- Blur
  
-Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+ 
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
 
----------------------------------------------------------------------------------------------
+---
+
 <h1>v4.3</h1>
 
 **Updated:**
