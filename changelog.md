@@ -4,6 +4,53 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+## Version: 5.0.3
+
+### Updated:
+- Embeddium (0.3.12 → 0.3.18)
+- FancyMenu (3.1.2 → 3.2.3)
+- Industrial Foregoing (3.3.1.6-10 → 3.3.1.7-11)
+- Minecraft Forge (40.2.18 → 40.2.21)
+- Macaw's Bridges (2.1.0 → 3.0.1)
+- Macaw's Doors (1.1.0 → 1.1.1)
+- Macaw's Fences and Walls (1.1.1 → 1.1.2)
+- Macaw's Roofs (2.3.0 → 2.3.1)
+- Macaw's Windows (2.2.1 → 2.3.0)
+- Simple Discord RPC (3.2.4 → 3.3.2)
+- Storage Drawers (10.2.1 → 10.3.0)
+- Zume (0.17.0 → 1.1.2)
+
+### Changed/Fixed:
+- Macaw's Bridges v3.0.0 has introduced some distortions in bridge appearances. To rectify this, simply place a block above or adjacent to the affected bridge or stairs. Alternatively, breaking and replacing them will trigger an update for neighboring bridges.
+- New bridge types have been incorporated:
+  - Bridge Torch & Lantern
+  - Bridge Piers
+  - Red Asian Bridge + Stairs
+  - Glass Bridge + Stairs
+- Fixed discord invite link.
+- Fixed suggestions button URL.
+- Fixed main menu music not playing custom song.
+- Performance Improvements.
+
+### Added:
+- FTB Chunks
+- FTB Teams
+- FTB Library
+- Create: Steam & Rails
+- Create Crafts & Additions
+- Nature's Compass
+- Sodium/Embeddium Extras
+- Sodium/Embeddium Dynamic Lights
+- Lootr
+
+### Removed:
+- RyoamicLights
+- ObsidianUI
+- Embeddium++
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/AMPZ-REBORN)
+
+---
 
 ## Version: 5.0.2
 
